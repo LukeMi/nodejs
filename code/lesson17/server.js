@@ -7,3 +7,4 @@ MongoClient.connect(url, function (err, db) {
     console.log("数据库已创建!");
     db.close();
 });
+
